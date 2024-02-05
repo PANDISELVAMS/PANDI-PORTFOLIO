@@ -1,0 +1,29 @@
+body{
+    font-family: 'Kanit', sans-serif; 
+}
+.banner {
+   background-image: url(bacf.jpg);
+   background-position: center;
+   background-size: cover;
+   width:100%;
+   height:720px;
+   padding:150px 0px;
+ }
+.aboutsect{
+    background-image: url(notebook.jpg);
+    background-position: center;
+    background-size: cover;
+    color: black;
+}
+
+.skillsec {
+    background-image: url(ink.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.con {
+    background-image: url(notebook.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
